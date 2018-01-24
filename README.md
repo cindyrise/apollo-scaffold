@@ -1,8 +1,9 @@
 #### 使用技术
 ```text
-热更新、ES6/7、scss、Router4、apollo ,webpack3、前端node服务器，
+热更新、ES6/7、scss、Router4、apollo ,webpack3、前端node服务器 按需加载...
+
 示例demo 包括更新，修改store ，query ，mutation 操作
-按需加载...
+
 ```
 
 #### 安装教程
