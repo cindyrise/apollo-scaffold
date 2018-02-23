@@ -28,3 +28,10 @@ http://127.0.0.1:8090
 ```
 npm run build
 ```
+
+5、code编写规则及行为规范请参考
+
+```
+https://github.com/cindyrise/doc.git
+
+```
